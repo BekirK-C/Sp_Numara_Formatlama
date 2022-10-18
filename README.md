@@ -1,2 +1,2 @@
 # Sp_Numara_Formatlama
-Farklı tipte girilen telefon numaralarını tek bir formata dönüştürme
+Farklı formatlarda ve çeşitli karakterlerle birlikte girilen telefon numaraları tek bir formata dönüştürülür
